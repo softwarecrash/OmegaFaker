@@ -23,8 +23,8 @@
 
 #include "timings.h"
 //the pause between the pulse are 102µS so the 328P is slow, need to set it a bit lower
-const int messagePause = 1000; //ms
-const int pulsePause = 100; //µS
+const int messagePause = 1000; //Pause between message blocks in ms
+const int pulsePause = 100; //pause between Signals in µS
 void setup()
 {
   pinMode(PIN, OUTPUT);
