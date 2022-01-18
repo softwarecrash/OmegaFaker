@@ -1,5 +1,5 @@
 # OmegaFaker
-A Faker for Greenworks GW and other Battery types Omega Port faking
+A Faker for Greenworks GW and other Battery types Omega Port to run varius devices with other batterys
 
 Tested with:
 - Greenworks Leaf Blower 40V - Works!
