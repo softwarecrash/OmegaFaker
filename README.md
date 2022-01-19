@@ -4,7 +4,7 @@ A Faker for Greenworks GW and other Battery types Omega Port to run varius devic
 Tested with:
 - Greenworks Leaf Blower 40V - Works!
 
-Actual only 40V Batterys ar supported, other comming soon
+Actual Greenworks 40V Batterys ar supported, other comming soon
 
 Use:
 - Grab a Arduino or someelse with a Atmega 328P or higher that have 16mhz
