@@ -11,7 +11,7 @@
 
 //----------------------------SETTINGS--------------------------
 //Uncoment your Battery Type
-#define GreenWorks40V
+#define Greenworks40VRAW
 //#define GreenWorks60V //not implemented
 //#define GreenWorks80V  //not implemented
 
