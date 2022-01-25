@@ -30,7 +30,7 @@ void setup()
 }
 void loop()
 {
-  for (uint8_t i = 0; i < sizeof(pulseLength) / sizeof(pulseLength[0]); i++) //evt sizeof in clammern setzen? ziemlich sicher, einfach mal testen
+  for (uint8_t i = 0; i < sizeof(pulseLength) / sizeof(pulseLength[0]); i++)
   {
     for (uint8_t j = 0; j < pulseLength[i][0]; j++)
     {
