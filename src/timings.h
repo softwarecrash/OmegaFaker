@@ -12,6 +12,7 @@ const int pulseLength[][2] = {
     {1, 412},
     {24, 105},
 };
+#endif
 #ifdef GreenWorks60V //Timing array for 60V Powerworks - untested from https://endless-sphere.com/forums/viewtopic.php?f=1&t=79384&sid=8676384e4fca92f832bd25d3e6a08a04&start=100#p1559001
 const int pulseLength[][2] = {
     {1, 412},
